@@ -1,0 +1,17 @@
+{
+  "name": "optimus",
+  "version": "1.0.0",
+  "description": "A TDD and array iteration primer featuring primes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "watch": "mocha --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
